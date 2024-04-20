@@ -1,5 +1,7 @@
 # Web Scraping Time.am for Casio Women's Watches
-
+<p align="center">
+  <img src="https://i.pinimg.com/564x/ce/a4/f1/cea4f1f422967314a98e3104fab9aa2f.jpg" alt="Web Scraping" width="400">
+</p>
 ## Overview
 This repository contains a Python script designed for web scraping data from the [Time.am](https://time.am) website, with a focus on Casio women's watches. The script extracts essential information, including product IDs and prices, from individual product pages, saving the collected data in a structured CSV file named `Casio_watches.csv`.
 
