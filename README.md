@@ -20,4 +20,4 @@ This repository contains a Python script designed for web scraping data from the
 This script intelligently retrieves data from [Time.am](https://time.am), focusing on the Casio women's watches section.
 
 ## Contributions
-Contributions are encouraged. Valuable input, feedback, and suggestions are welcome. Contribute by creating issues or submitting pull requests for additional features or enhancements.
+Contributions are encouraged. Valuable input, feedback, and suggestions are welcome.
